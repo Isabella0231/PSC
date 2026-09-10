@@ -1,0 +1,16 @@
+GO,pathway,翻译
+GO:0002624,positive regulation of B cell antigen processing and presentation,B细胞抗原加工与呈递的正向调控
+GO:0002663,positive regulation of B cell tolerance induction,B细胞耐受诱导的正向调控
+GO:0002714,positive regulation of B cell mediated immunity,B细胞介导免疫的正向调控
+GO:0002904,positive regulation of B cell apoptotic process,B细胞凋亡过程的正向调控
+GO:0035769,B cell chemotaxis across high endothelial venule,B细胞跨越高内皮微静脉趋化
+GO:0045579,positive regulation of B cell differentiation,B细胞分化的正向调控
+GO:0050861,positive regulation of B cell receptor signaling pathway,B细胞受体信号通路的正向调控
+GO:0050871,positive regulation of B cell activation,B细胞激活的正向调控
+GO:0071948,activation-induced B cell apoptotic process,活化诱导B细胞凋亡过程
+GO:0090717:1,adaptive immune memory response involving T cells and B cells,涉及T、B细胞的适应性免疫记忆应答
+GO:0090721:1,primary adaptive immune response involving T cells and B cells,涉及T、B细胞的初级适应性免疫应答
+GO:2000538,positive regulation of B cell chemotaxis,B细胞趋化的正向调控
+GO:0002612,positive regulation of plasmacytoid dendritic cell antigen processing and presentation,浆细胞样树突状细胞抗原加工与呈递的正向调控
+GO:0002738,positive regulation of plasmacytoid dendritic cell cytokine production,浆细胞样树突状细胞细胞因子产生的正向调控
+GO:1900100,positive regulation of plasma cell differentiation,浆细胞分化的正向调控

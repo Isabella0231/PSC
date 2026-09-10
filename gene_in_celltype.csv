@@ -1,0 +1,16 @@
+celltype_fac,gene
+CD8_Exhausted,CD8A
+CD8_Exhausted,CD8B
+CD8_Exhausted,GZMB
+CD8_Exhausted,GZMA
+CD8_Exhausted,GZMA
+CD8_Exhausted,TNFRSF9
+CD8_CTL,CD8A
+CD8_CTL,CD8B
+CD8_CTL,GZMB
+CD8_CTL,GZMA
+CD8_CTL,GZMA
+CD8_CTL,TNFRSF9
+Alveolar_Marcophage,FCGR1A
+Alveolar_Marcophage,FCGR2A
+Alveolar_Marcophage,FCGR3A

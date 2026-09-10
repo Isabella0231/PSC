@@ -1,0 +1,545 @@
+"","Var1","Var2","Var3","Freq"
+"1","B","TLS1_boundaries_0","TLS1",0.475456621004566
+"2","Plasma","TLS1_boundaries_0","TLS1",0.0833333333333333
+"3","CD8_Teff","TLS1_boundaries_0","TLS1",0.0045662100456621
+"4","CD8_CTL","TLS1_boundaries_0","TLS1",0.140981735159817
+"5","Mac_like CD8_CTL","TLS1_boundaries_0","TLS1",0.00570776255707763
+"6","Epi_like CD8_Teff","TLS1_boundaries_0","TLS1",0.00114155251141553
+"7","Fb_like CD8_Teff","TLS1_boundaries_0","TLS1",0.0194063926940639
+"8","CD8_Exhausted","TLS1_boundaries_0","TLS1",0
+"9","CD8_proliferation","TLS1_boundaries_0","TLS1",0.0496575342465753
+"10","Fb_like Mac_like Treg","TLS1_boundaries_0","TLS1",0
+"11","Treg","TLS1_boundaries_0","TLS1",0.0410958904109589
+"12","Th17","TLS1_boundaries_0","TLS1",0.021689497716895
+"13","monocytes","TLS1_boundaries_0","TLS1",0.00799086757990868
+"14","Alveolar_Marcophage","TLS1_boundaries_0","TLS1",0.0251141552511416
+"15","Interstital_Mph_perivascular","TLS1_boundaries_0","TLS1",0
+"16","Alveolar_Mph_Proliferating","TLS1_boundaries_0","TLS1",0.000570776255707763
+"17","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_0","TLS1",0.000570776255707763
+"18","cDC2","TLS1_boundaries_0","TLS1",0.000570776255707763
+"19","cDC3","TLS1_boundaries_0","TLS1",0.00970319634703196
+"20","pDC","TLS1_boundaries_0","TLS1",0.00171232876712329
+"21","mast_cell","TLS1_boundaries_0","TLS1",0.000570776255707763
+"22","Lymphatic_endothelial_cell","TLS1_boundaries_0","TLS1",0.00114155251141553
+"23","Arterial_endothelial_cell","TLS1_boundaries_0","TLS1",0.0313926940639269
+"24","Pericytes","TLS1_boundaries_0","TLS1",0.0245433789954338
+"25","tCAF","TLS1_boundaries_0","TLS1",0.000570776255707763
+"26","mCAF","TLS1_boundaries_0","TLS1",0.0445205479452055
+"27","InfCAF","TLS1_boundaries_0","TLS1",0.00114155251141553
+"28","T_like Fibroblast","TLS1_boundaries_0","TLS1",0.0045662100456621
+"29","AT1_like Fibroblast","TLS1_boundaries_0","TLS1",0.000570776255707763
+"30","AT1","TLS1_boundaries_0","TLS1",0.00171232876712329
+"31","AT2","TLS1_boundaries_0","TLS1",0
+"32","AT1_proliferation","TLS1_boundaries_0","TLS1",0
+"33","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_0","TLS1",0
+"34","Tumor","TLS1_boundaries_0","TLS1",0
+"35","B","TLS1_boundaries_150","TLS1",0.0249835634451019
+"36","Plasma","TLS1_boundaries_150","TLS1",0.259040105193951
+"37","CD8_Teff","TLS1_boundaries_150","TLS1",0.0111768573307035
+"38","CD8_CTL","TLS1_boundaries_150","TLS1",0.0532544378698225
+"39","Mac_like CD8_CTL","TLS1_boundaries_150","TLS1",0.0118343195266272
+"40","Epi_like CD8_Teff","TLS1_boundaries_150","TLS1",0.00262984878369494
+"41","Fb_like CD8_Teff","TLS1_boundaries_150","TLS1",0.0407626561472715
+"42","CD8_Exhausted","TLS1_boundaries_150","TLS1",0.0019723865877712
+"43","CD8_proliferation","TLS1_boundaries_150","TLS1",0.0203813280736358
+"44","Fb_like Mac_like Treg","TLS1_boundaries_150","TLS1",0
+"45","Treg","TLS1_boundaries_150","TLS1",0.0131492439184747
+"46","Th17","TLS1_boundaries_150","TLS1",0.00657462195923734
+"47","monocytes","TLS1_boundaries_150","TLS1",0.0144641683103222
+"48","Alveolar_Marcophage","TLS1_boundaries_150","TLS1",0.111768573307035
+"49","Interstital_Mph_perivascular","TLS1_boundaries_150","TLS1",0
+"50","Alveolar_Mph_Proliferating","TLS1_boundaries_150","TLS1",0.00328731097961867
+"51","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_150","TLS1",0.00723208415516108
+"52","cDC2","TLS1_boundaries_150","TLS1",0
+"53","cDC3","TLS1_boundaries_150","TLS1",0.00262984878369494
+"54","pDC","TLS1_boundaries_150","TLS1",0.0151216305062459
+"55","mast_cell","TLS1_boundaries_150","TLS1",0.0019723865877712
+"56","Lymphatic_endothelial_cell","TLS1_boundaries_150","TLS1",0.00657462195923734
+"57","Arterial_endothelial_cell","TLS1_boundaries_150","TLS1",0.0815253122945431
+"58","Pericytes","TLS1_boundaries_150","TLS1",0.0414201183431953
+"59","tCAF","TLS1_boundaries_150","TLS1",0.00394477317554241
+"60","mCAF","TLS1_boundaries_150","TLS1",0.221564760026298
+"61","InfCAF","TLS1_boundaries_150","TLS1",0.00854700854700855
+"62","T_like Fibroblast","TLS1_boundaries_150","TLS1",0.00262984878369494
+"63","AT1_like Fibroblast","TLS1_boundaries_150","TLS1",0.000657462195923734
+"64","AT1","TLS1_boundaries_150","TLS1",0.00854700854700855
+"65","AT2","TLS1_boundaries_150","TLS1",0
+"66","AT1_proliferation","TLS1_boundaries_150","TLS1",0.00131492439184747
+"67","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_150","TLS1",0.00986193293885602
+"68","Tumor","TLS1_boundaries_150","TLS1",0.0111768573307035
+"69","B","TLS1_boundaries_300","TLS1",0.0101666195989833
+"70","Plasma","TLS1_boundaries_300","TLS1",0.245975713075402
+"71","CD8_Teff","TLS1_boundaries_300","TLS1",0.0203332391979667
+"72","CD8_CTL","TLS1_boundaries_300","TLS1",0.0502682857949732
+"73","Mac_like CD8_CTL","TLS1_boundaries_300","TLS1",0.0336063258966394
+"74","Epi_like CD8_Teff","TLS1_boundaries_300","TLS1",0.00338887319966111
+"75","Fb_like CD8_Teff","TLS1_boundaries_300","TLS1",0.0285230160971477
+"76","CD8_Exhausted","TLS1_boundaries_300","TLS1",0.0192036147980796
+"77","CD8_proliferation","TLS1_boundaries_300","TLS1",0.0242869245975713
+"78","Fb_like Mac_like Treg","TLS1_boundaries_300","TLS1",0.000847218299915278
+"79","Treg","TLS1_boundaries_300","TLS1",0.0206156452979384
+"80","Th17","TLS1_boundaries_300","TLS1",0.00790737079920926
+"81","monocytes","TLS1_boundaries_300","TLS1",0.0169443659983056
+"82","Alveolar_Marcophage","TLS1_boundaries_300","TLS1",0.107879130189212
+"83","Interstital_Mph_perivascular","TLS1_boundaries_300","TLS1",0.000847218299915278
+"84","Alveolar_Mph_Proliferating","TLS1_boundaries_300","TLS1",0.00423609149957639
+"85","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_300","TLS1",0.0076249646992375
+"86","cDC2","TLS1_boundaries_300","TLS1",0.000282406099971759
+"87","cDC3","TLS1_boundaries_300","TLS1",0.00225924879977408
+"88","pDC","TLS1_boundaries_300","TLS1",0.00451849759954815
+"89","mast_cell","TLS1_boundaries_300","TLS1",0.0076249646992375
+"90","Lymphatic_endothelial_cell","TLS1_boundaries_300","TLS1",0.00310646709968935
+"91","Arterial_endothelial_cell","TLS1_boundaries_300","TLS1",0.0559164077944084
+"92","Pericytes","TLS1_boundaries_300","TLS1",0.0324767014967523
+"93","tCAF","TLS1_boundaries_300","TLS1",0.00225924879977408
+"94","mCAF","TLS1_boundaries_300","TLS1",0.124823496187518
+"95","InfCAF","TLS1_boundaries_300","TLS1",0.0172267720982773
+"96","T_like Fibroblast","TLS1_boundaries_300","TLS1",0.00254165489974583
+"97","AT1_like Fibroblast","TLS1_boundaries_300","TLS1",0.0014120304998588
+"98","AT1","TLS1_boundaries_300","TLS1",0.0279582038972042
+"99","AT2","TLS1_boundaries_300","TLS1",0.0214628635978537
+"100","AT1_proliferation","TLS1_boundaries_300","TLS1",0.00169443659983056
+"101","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_300","TLS1",0.0208980513979102
+"102","Tumor","TLS1_boundaries_300","TLS1",0.0708839310929116
+"103","B","TLS1_boundaries_450","TLS1",0.0190413657255417
+"104","Plasma","TLS1_boundaries_450","TLS1",0.259137666885533
+"105","CD8_Teff","TLS1_boundaries_450","TLS1",0.0216677609980302
+"106","CD8_CTL","TLS1_boundaries_450","TLS1",0.0358940687240096
+"107","Mac_like CD8_CTL","TLS1_boundaries_450","TLS1",0.0275771503611294
+"108","Epi_like CD8_Teff","TLS1_boundaries_450","TLS1",0.00415845918144014
+"109","Fb_like CD8_Teff","TLS1_boundaries_450","TLS1",0.0284526154519589
+"110","CD8_Exhausted","TLS1_boundaries_450","TLS1",0.0282337491792515
+"111","CD8_proliferation","TLS1_boundaries_450","TLS1",0.0218866272707376
+"112","Fb_like Mac_like Treg","TLS1_boundaries_450","TLS1",0.000437732545414752
+"113","Treg","TLS1_boundaries_450","TLS1",0.0131319763624425
+"114","Th17","TLS1_boundaries_450","TLS1",0.00766031954475815
+"115","monocytes","TLS1_boundaries_450","TLS1",0.0100678485445393
+"116","Alveolar_Marcophage","TLS1_boundaries_450","TLS1",0.0873276428102429
+"117","Interstital_Mph_perivascular","TLS1_boundaries_450","TLS1",0.00481505799956227
+"118","Alveolar_Mph_Proliferating","TLS1_boundaries_450","TLS1",0.00503392427226964
+"119","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_450","TLS1",0.0054716568176844
+"120","cDC2","TLS1_boundaries_450","TLS1",0.000656598818122127
+"121","cDC3","TLS1_boundaries_450","TLS1",0.00109433136353688
+"122","pDC","TLS1_boundaries_450","TLS1",0.00306412781790326
+"123","mast_cell","TLS1_boundaries_450","TLS1",0.00240752899978113
+"124","Lymphatic_endothelial_cell","TLS1_boundaries_450","TLS1",0.00393959290873276
+"125","Arterial_endothelial_cell","TLS1_boundaries_450","TLS1",0.043116655723353
+"126","Pericytes","TLS1_boundaries_450","TLS1",0.0186036331801269
+"127","tCAF","TLS1_boundaries_450","TLS1",0.00175093018165901
+"128","mCAF","TLS1_boundaries_450","TLS1",0.0952068286277085
+"129","InfCAF","TLS1_boundaries_450","TLS1",0.0153206390895163
+"130","T_like Fibroblast","TLS1_boundaries_450","TLS1",0.00196979645436638
+"131","AT1_like Fibroblast","TLS1_boundaries_450","TLS1",0.00240752899978113
+"132","AT1","TLS1_boundaries_450","TLS1",0.0304224119063252
+"133","AT2","TLS1_boundaries_450","TLS1",0.0352374699058875
+"134","AT1_proliferation","TLS1_boundaries_450","TLS1",0.00393959290873276
+"135","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_450","TLS1",0.0304224119063252
+"136","Tumor","TLS1_boundaries_450","TLS1",0.130444298533596
+"137","B","TLS2_boundaries_0","TLS1",0
+"138","Plasma","TLS2_boundaries_0","TLS1",0
+"139","CD8_Teff","TLS2_boundaries_0","TLS1",0
+"140","CD8_CTL","TLS2_boundaries_0","TLS1",0
+"141","Mac_like CD8_CTL","TLS2_boundaries_0","TLS1",0
+"142","Epi_like CD8_Teff","TLS2_boundaries_0","TLS1",0
+"143","Fb_like CD8_Teff","TLS2_boundaries_0","TLS1",0
+"144","CD8_Exhausted","TLS2_boundaries_0","TLS1",0
+"145","CD8_proliferation","TLS2_boundaries_0","TLS1",0
+"146","Fb_like Mac_like Treg","TLS2_boundaries_0","TLS1",0
+"147","Treg","TLS2_boundaries_0","TLS1",0
+"148","Th17","TLS2_boundaries_0","TLS1",0
+"149","monocytes","TLS2_boundaries_0","TLS1",0
+"150","Alveolar_Marcophage","TLS2_boundaries_0","TLS1",0
+"151","Interstital_Mph_perivascular","TLS2_boundaries_0","TLS1",0
+"152","Alveolar_Mph_Proliferating","TLS2_boundaries_0","TLS1",0
+"153","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_0","TLS1",0
+"154","cDC2","TLS2_boundaries_0","TLS1",0
+"155","cDC3","TLS2_boundaries_0","TLS1",0
+"156","pDC","TLS2_boundaries_0","TLS1",0
+"157","mast_cell","TLS2_boundaries_0","TLS1",0
+"158","Lymphatic_endothelial_cell","TLS2_boundaries_0","TLS1",0
+"159","Arterial_endothelial_cell","TLS2_boundaries_0","TLS1",0
+"160","Pericytes","TLS2_boundaries_0","TLS1",0
+"161","tCAF","TLS2_boundaries_0","TLS1",0
+"162","mCAF","TLS2_boundaries_0","TLS1",0
+"163","InfCAF","TLS2_boundaries_0","TLS1",0
+"164","T_like Fibroblast","TLS2_boundaries_0","TLS1",0
+"165","AT1_like Fibroblast","TLS2_boundaries_0","TLS1",0
+"166","AT1","TLS2_boundaries_0","TLS1",0
+"167","AT2","TLS2_boundaries_0","TLS1",0
+"168","AT1_proliferation","TLS2_boundaries_0","TLS1",0
+"169","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_0","TLS1",0
+"170","Tumor","TLS2_boundaries_0","TLS1",0
+"171","B","TLS2_boundaries_150","TLS1",0
+"172","Plasma","TLS2_boundaries_150","TLS1",0
+"173","CD8_Teff","TLS2_boundaries_150","TLS1",0
+"174","CD8_CTL","TLS2_boundaries_150","TLS1",0
+"175","Mac_like CD8_CTL","TLS2_boundaries_150","TLS1",0
+"176","Epi_like CD8_Teff","TLS2_boundaries_150","TLS1",0
+"177","Fb_like CD8_Teff","TLS2_boundaries_150","TLS1",0
+"178","CD8_Exhausted","TLS2_boundaries_150","TLS1",0
+"179","CD8_proliferation","TLS2_boundaries_150","TLS1",0
+"180","Fb_like Mac_like Treg","TLS2_boundaries_150","TLS1",0
+"181","Treg","TLS2_boundaries_150","TLS1",0
+"182","Th17","TLS2_boundaries_150","TLS1",0
+"183","monocytes","TLS2_boundaries_150","TLS1",0
+"184","Alveolar_Marcophage","TLS2_boundaries_150","TLS1",0
+"185","Interstital_Mph_perivascular","TLS2_boundaries_150","TLS1",0
+"186","Alveolar_Mph_Proliferating","TLS2_boundaries_150","TLS1",0
+"187","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_150","TLS1",0
+"188","cDC2","TLS2_boundaries_150","TLS1",0
+"189","cDC3","TLS2_boundaries_150","TLS1",0
+"190","pDC","TLS2_boundaries_150","TLS1",0
+"191","mast_cell","TLS2_boundaries_150","TLS1",0
+"192","Lymphatic_endothelial_cell","TLS2_boundaries_150","TLS1",0
+"193","Arterial_endothelial_cell","TLS2_boundaries_150","TLS1",0
+"194","Pericytes","TLS2_boundaries_150","TLS1",0
+"195","tCAF","TLS2_boundaries_150","TLS1",0
+"196","mCAF","TLS2_boundaries_150","TLS1",0
+"197","InfCAF","TLS2_boundaries_150","TLS1",0
+"198","T_like Fibroblast","TLS2_boundaries_150","TLS1",0
+"199","AT1_like Fibroblast","TLS2_boundaries_150","TLS1",0
+"200","AT1","TLS2_boundaries_150","TLS1",0
+"201","AT2","TLS2_boundaries_150","TLS1",0
+"202","AT1_proliferation","TLS2_boundaries_150","TLS1",0
+"203","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_150","TLS1",0
+"204","Tumor","TLS2_boundaries_150","TLS1",0
+"205","B","TLS2_boundaries_300","TLS1",0
+"206","Plasma","TLS2_boundaries_300","TLS1",0
+"207","CD8_Teff","TLS2_boundaries_300","TLS1",0
+"208","CD8_CTL","TLS2_boundaries_300","TLS1",0
+"209","Mac_like CD8_CTL","TLS2_boundaries_300","TLS1",0
+"210","Epi_like CD8_Teff","TLS2_boundaries_300","TLS1",0
+"211","Fb_like CD8_Teff","TLS2_boundaries_300","TLS1",0
+"212","CD8_Exhausted","TLS2_boundaries_300","TLS1",0
+"213","CD8_proliferation","TLS2_boundaries_300","TLS1",0
+"214","Fb_like Mac_like Treg","TLS2_boundaries_300","TLS1",0
+"215","Treg","TLS2_boundaries_300","TLS1",0
+"216","Th17","TLS2_boundaries_300","TLS1",0
+"217","monocytes","TLS2_boundaries_300","TLS1",0
+"218","Alveolar_Marcophage","TLS2_boundaries_300","TLS1",0
+"219","Interstital_Mph_perivascular","TLS2_boundaries_300","TLS1",0
+"220","Alveolar_Mph_Proliferating","TLS2_boundaries_300","TLS1",0
+"221","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_300","TLS1",0
+"222","cDC2","TLS2_boundaries_300","TLS1",0
+"223","cDC3","TLS2_boundaries_300","TLS1",0
+"224","pDC","TLS2_boundaries_300","TLS1",0
+"225","mast_cell","TLS2_boundaries_300","TLS1",0
+"226","Lymphatic_endothelial_cell","TLS2_boundaries_300","TLS1",0
+"227","Arterial_endothelial_cell","TLS2_boundaries_300","TLS1",0
+"228","Pericytes","TLS2_boundaries_300","TLS1",0
+"229","tCAF","TLS2_boundaries_300","TLS1",0
+"230","mCAF","TLS2_boundaries_300","TLS1",0
+"231","InfCAF","TLS2_boundaries_300","TLS1",0
+"232","T_like Fibroblast","TLS2_boundaries_300","TLS1",0
+"233","AT1_like Fibroblast","TLS2_boundaries_300","TLS1",0
+"234","AT1","TLS2_boundaries_300","TLS1",0
+"235","AT2","TLS2_boundaries_300","TLS1",0
+"236","AT1_proliferation","TLS2_boundaries_300","TLS1",0
+"237","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_300","TLS1",0
+"238","Tumor","TLS2_boundaries_300","TLS1",0
+"239","B","TLS2_boundaries_450","TLS1",0
+"240","Plasma","TLS2_boundaries_450","TLS1",0
+"241","CD8_Teff","TLS2_boundaries_450","TLS1",0
+"242","CD8_CTL","TLS2_boundaries_450","TLS1",0
+"243","Mac_like CD8_CTL","TLS2_boundaries_450","TLS1",0
+"244","Epi_like CD8_Teff","TLS2_boundaries_450","TLS1",0
+"245","Fb_like CD8_Teff","TLS2_boundaries_450","TLS1",0
+"246","CD8_Exhausted","TLS2_boundaries_450","TLS1",0
+"247","CD8_proliferation","TLS2_boundaries_450","TLS1",0
+"248","Fb_like Mac_like Treg","TLS2_boundaries_450","TLS1",0
+"249","Treg","TLS2_boundaries_450","TLS1",0
+"250","Th17","TLS2_boundaries_450","TLS1",0
+"251","monocytes","TLS2_boundaries_450","TLS1",0
+"252","Alveolar_Marcophage","TLS2_boundaries_450","TLS1",0
+"253","Interstital_Mph_perivascular","TLS2_boundaries_450","TLS1",0
+"254","Alveolar_Mph_Proliferating","TLS2_boundaries_450","TLS1",0
+"255","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_450","TLS1",0
+"256","cDC2","TLS2_boundaries_450","TLS1",0
+"257","cDC3","TLS2_boundaries_450","TLS1",0
+"258","pDC","TLS2_boundaries_450","TLS1",0
+"259","mast_cell","TLS2_boundaries_450","TLS1",0
+"260","Lymphatic_endothelial_cell","TLS2_boundaries_450","TLS1",0
+"261","Arterial_endothelial_cell","TLS2_boundaries_450","TLS1",0
+"262","Pericytes","TLS2_boundaries_450","TLS1",0
+"263","tCAF","TLS2_boundaries_450","TLS1",0
+"264","mCAF","TLS2_boundaries_450","TLS1",0
+"265","InfCAF","TLS2_boundaries_450","TLS1",0
+"266","T_like Fibroblast","TLS2_boundaries_450","TLS1",0
+"267","AT1_like Fibroblast","TLS2_boundaries_450","TLS1",0
+"268","AT1","TLS2_boundaries_450","TLS1",0
+"269","AT2","TLS2_boundaries_450","TLS1",0
+"270","AT1_proliferation","TLS2_boundaries_450","TLS1",0
+"271","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_450","TLS1",0
+"272","Tumor","TLS2_boundaries_450","TLS1",0
+"273","B","TLS1_boundaries_0","TLS2",0
+"274","Plasma","TLS1_boundaries_0","TLS2",0
+"275","CD8_Teff","TLS1_boundaries_0","TLS2",0
+"276","CD8_CTL","TLS1_boundaries_0","TLS2",0
+"277","Mac_like CD8_CTL","TLS1_boundaries_0","TLS2",0
+"278","Epi_like CD8_Teff","TLS1_boundaries_0","TLS2",0
+"279","Fb_like CD8_Teff","TLS1_boundaries_0","TLS2",0
+"280","CD8_Exhausted","TLS1_boundaries_0","TLS2",0
+"281","CD8_proliferation","TLS1_boundaries_0","TLS2",0
+"282","Fb_like Mac_like Treg","TLS1_boundaries_0","TLS2",0
+"283","Treg","TLS1_boundaries_0","TLS2",0
+"284","Th17","TLS1_boundaries_0","TLS2",0
+"285","monocytes","TLS1_boundaries_0","TLS2",0
+"286","Alveolar_Marcophage","TLS1_boundaries_0","TLS2",0
+"287","Interstital_Mph_perivascular","TLS1_boundaries_0","TLS2",0
+"288","Alveolar_Mph_Proliferating","TLS1_boundaries_0","TLS2",0
+"289","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_0","TLS2",0
+"290","cDC2","TLS1_boundaries_0","TLS2",0
+"291","cDC3","TLS1_boundaries_0","TLS2",0
+"292","pDC","TLS1_boundaries_0","TLS2",0
+"293","mast_cell","TLS1_boundaries_0","TLS2",0
+"294","Lymphatic_endothelial_cell","TLS1_boundaries_0","TLS2",0
+"295","Arterial_endothelial_cell","TLS1_boundaries_0","TLS2",0
+"296","Pericytes","TLS1_boundaries_0","TLS2",0
+"297","tCAF","TLS1_boundaries_0","TLS2",0
+"298","mCAF","TLS1_boundaries_0","TLS2",0
+"299","InfCAF","TLS1_boundaries_0","TLS2",0
+"300","T_like Fibroblast","TLS1_boundaries_0","TLS2",0
+"301","AT1_like Fibroblast","TLS1_boundaries_0","TLS2",0
+"302","AT1","TLS1_boundaries_0","TLS2",0
+"303","AT2","TLS1_boundaries_0","TLS2",0
+"304","AT1_proliferation","TLS1_boundaries_0","TLS2",0
+"305","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_0","TLS2",0
+"306","Tumor","TLS1_boundaries_0","TLS2",0
+"307","B","TLS1_boundaries_150","TLS2",0
+"308","Plasma","TLS1_boundaries_150","TLS2",0
+"309","CD8_Teff","TLS1_boundaries_150","TLS2",0
+"310","CD8_CTL","TLS1_boundaries_150","TLS2",0
+"311","Mac_like CD8_CTL","TLS1_boundaries_150","TLS2",0
+"312","Epi_like CD8_Teff","TLS1_boundaries_150","TLS2",0
+"313","Fb_like CD8_Teff","TLS1_boundaries_150","TLS2",0
+"314","CD8_Exhausted","TLS1_boundaries_150","TLS2",0
+"315","CD8_proliferation","TLS1_boundaries_150","TLS2",0
+"316","Fb_like Mac_like Treg","TLS1_boundaries_150","TLS2",0
+"317","Treg","TLS1_boundaries_150","TLS2",0
+"318","Th17","TLS1_boundaries_150","TLS2",0
+"319","monocytes","TLS1_boundaries_150","TLS2",0
+"320","Alveolar_Marcophage","TLS1_boundaries_150","TLS2",0
+"321","Interstital_Mph_perivascular","TLS1_boundaries_150","TLS2",0
+"322","Alveolar_Mph_Proliferating","TLS1_boundaries_150","TLS2",0
+"323","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_150","TLS2",0
+"324","cDC2","TLS1_boundaries_150","TLS2",0
+"325","cDC3","TLS1_boundaries_150","TLS2",0
+"326","pDC","TLS1_boundaries_150","TLS2",0
+"327","mast_cell","TLS1_boundaries_150","TLS2",0
+"328","Lymphatic_endothelial_cell","TLS1_boundaries_150","TLS2",0
+"329","Arterial_endothelial_cell","TLS1_boundaries_150","TLS2",0
+"330","Pericytes","TLS1_boundaries_150","TLS2",0
+"331","tCAF","TLS1_boundaries_150","TLS2",0
+"332","mCAF","TLS1_boundaries_150","TLS2",0
+"333","InfCAF","TLS1_boundaries_150","TLS2",0
+"334","T_like Fibroblast","TLS1_boundaries_150","TLS2",0
+"335","AT1_like Fibroblast","TLS1_boundaries_150","TLS2",0
+"336","AT1","TLS1_boundaries_150","TLS2",0
+"337","AT2","TLS1_boundaries_150","TLS2",0
+"338","AT1_proliferation","TLS1_boundaries_150","TLS2",0
+"339","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_150","TLS2",0
+"340","Tumor","TLS1_boundaries_150","TLS2",0
+"341","B","TLS1_boundaries_300","TLS2",0
+"342","Plasma","TLS1_boundaries_300","TLS2",0
+"343","CD8_Teff","TLS1_boundaries_300","TLS2",0
+"344","CD8_CTL","TLS1_boundaries_300","TLS2",0
+"345","Mac_like CD8_CTL","TLS1_boundaries_300","TLS2",0
+"346","Epi_like CD8_Teff","TLS1_boundaries_300","TLS2",0
+"347","Fb_like CD8_Teff","TLS1_boundaries_300","TLS2",0
+"348","CD8_Exhausted","TLS1_boundaries_300","TLS2",0
+"349","CD8_proliferation","TLS1_boundaries_300","TLS2",0
+"350","Fb_like Mac_like Treg","TLS1_boundaries_300","TLS2",0
+"351","Treg","TLS1_boundaries_300","TLS2",0
+"352","Th17","TLS1_boundaries_300","TLS2",0
+"353","monocytes","TLS1_boundaries_300","TLS2",0
+"354","Alveolar_Marcophage","TLS1_boundaries_300","TLS2",0
+"355","Interstital_Mph_perivascular","TLS1_boundaries_300","TLS2",0
+"356","Alveolar_Mph_Proliferating","TLS1_boundaries_300","TLS2",0
+"357","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_300","TLS2",0
+"358","cDC2","TLS1_boundaries_300","TLS2",0
+"359","cDC3","TLS1_boundaries_300","TLS2",0
+"360","pDC","TLS1_boundaries_300","TLS2",0
+"361","mast_cell","TLS1_boundaries_300","TLS2",0
+"362","Lymphatic_endothelial_cell","TLS1_boundaries_300","TLS2",0
+"363","Arterial_endothelial_cell","TLS1_boundaries_300","TLS2",0
+"364","Pericytes","TLS1_boundaries_300","TLS2",0
+"365","tCAF","TLS1_boundaries_300","TLS2",0
+"366","mCAF","TLS1_boundaries_300","TLS2",0
+"367","InfCAF","TLS1_boundaries_300","TLS2",0
+"368","T_like Fibroblast","TLS1_boundaries_300","TLS2",0
+"369","AT1_like Fibroblast","TLS1_boundaries_300","TLS2",0
+"370","AT1","TLS1_boundaries_300","TLS2",0
+"371","AT2","TLS1_boundaries_300","TLS2",0
+"372","AT1_proliferation","TLS1_boundaries_300","TLS2",0
+"373","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_300","TLS2",0
+"374","Tumor","TLS1_boundaries_300","TLS2",0
+"375","B","TLS1_boundaries_450","TLS2",0
+"376","Plasma","TLS1_boundaries_450","TLS2",0
+"377","CD8_Teff","TLS1_boundaries_450","TLS2",0
+"378","CD8_CTL","TLS1_boundaries_450","TLS2",0
+"379","Mac_like CD8_CTL","TLS1_boundaries_450","TLS2",0
+"380","Epi_like CD8_Teff","TLS1_boundaries_450","TLS2",0
+"381","Fb_like CD8_Teff","TLS1_boundaries_450","TLS2",0
+"382","CD8_Exhausted","TLS1_boundaries_450","TLS2",0
+"383","CD8_proliferation","TLS1_boundaries_450","TLS2",0
+"384","Fb_like Mac_like Treg","TLS1_boundaries_450","TLS2",0
+"385","Treg","TLS1_boundaries_450","TLS2",0
+"386","Th17","TLS1_boundaries_450","TLS2",0
+"387","monocytes","TLS1_boundaries_450","TLS2",0
+"388","Alveolar_Marcophage","TLS1_boundaries_450","TLS2",0
+"389","Interstital_Mph_perivascular","TLS1_boundaries_450","TLS2",0
+"390","Alveolar_Mph_Proliferating","TLS1_boundaries_450","TLS2",0
+"391","Epithelial_like Alveolar_Marcophage","TLS1_boundaries_450","TLS2",0
+"392","cDC2","TLS1_boundaries_450","TLS2",0
+"393","cDC3","TLS1_boundaries_450","TLS2",0
+"394","pDC","TLS1_boundaries_450","TLS2",0
+"395","mast_cell","TLS1_boundaries_450","TLS2",0
+"396","Lymphatic_endothelial_cell","TLS1_boundaries_450","TLS2",0
+"397","Arterial_endothelial_cell","TLS1_boundaries_450","TLS2",0
+"398","Pericytes","TLS1_boundaries_450","TLS2",0
+"399","tCAF","TLS1_boundaries_450","TLS2",0
+"400","mCAF","TLS1_boundaries_450","TLS2",0
+"401","InfCAF","TLS1_boundaries_450","TLS2",0
+"402","T_like Fibroblast","TLS1_boundaries_450","TLS2",0
+"403","AT1_like Fibroblast","TLS1_boundaries_450","TLS2",0
+"404","AT1","TLS1_boundaries_450","TLS2",0
+"405","AT2","TLS1_boundaries_450","TLS2",0
+"406","AT1_proliferation","TLS1_boundaries_450","TLS2",0
+"407","Alveolar_Marcophage_like Epithelial","TLS1_boundaries_450","TLS2",0
+"408","Tumor","TLS1_boundaries_450","TLS2",0
+"409","B","TLS2_boundaries_0","TLS2",0.319343065693431
+"410","Plasma","TLS2_boundaries_0","TLS2",0.031021897810219
+"411","CD8_Teff","TLS2_boundaries_0","TLS2",0.0145985401459854
+"412","CD8_CTL","TLS2_boundaries_0","TLS2",0.268248175182482
+"413","Mac_like CD8_CTL","TLS2_boundaries_0","TLS2",0.0127737226277372
+"414","Epi_like CD8_Teff","TLS2_boundaries_0","TLS2",0.00364963503649635
+"415","Fb_like CD8_Teff","TLS2_boundaries_0","TLS2",0.0328467153284672
+"416","CD8_Exhausted","TLS2_boundaries_0","TLS2",0
+"417","CD8_proliferation","TLS2_boundaries_0","TLS2",0.0255474452554745
+"418","Fb_like Mac_like Treg","TLS2_boundaries_0","TLS2",0
+"419","Treg","TLS2_boundaries_0","TLS2",0.0583941605839416
+"420","Th17","TLS2_boundaries_0","TLS2",0.0456204379562044
+"421","monocytes","TLS2_boundaries_0","TLS2",0.0109489051094891
+"422","Alveolar_Marcophage","TLS2_boundaries_0","TLS2",0.0273722627737226
+"423","Interstital_Mph_perivascular","TLS2_boundaries_0","TLS2",0.00364963503649635
+"424","Alveolar_Mph_Proliferating","TLS2_boundaries_0","TLS2",0
+"425","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_0","TLS2",0
+"426","cDC2","TLS2_boundaries_0","TLS2",0
+"427","cDC3","TLS2_boundaries_0","TLS2",0
+"428","pDC","TLS2_boundaries_0","TLS2",0.00364963503649635
+"429","mast_cell","TLS2_boundaries_0","TLS2",0.00182481751824818
+"430","Lymphatic_endothelial_cell","TLS2_boundaries_0","TLS2",0
+"431","Arterial_endothelial_cell","TLS2_boundaries_0","TLS2",0.0346715328467153
+"432","Pericytes","TLS2_boundaries_0","TLS2",0.0255474452554745
+"433","tCAF","TLS2_boundaries_0","TLS2",0
+"434","mCAF","TLS2_boundaries_0","TLS2",0.00912408759124088
+"435","InfCAF","TLS2_boundaries_0","TLS2",0.00182481751824818
+"436","T_like Fibroblast","TLS2_boundaries_0","TLS2",0.00364963503649635
+"437","AT1_like Fibroblast","TLS2_boundaries_0","TLS2",0.00547445255474453
+"438","AT1","TLS2_boundaries_0","TLS2",0.0401459854014599
+"439","AT2","TLS2_boundaries_0","TLS2",0.0164233576642336
+"440","AT1_proliferation","TLS2_boundaries_0","TLS2",0.00182481751824818
+"441","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_0","TLS2",0
+"442","Tumor","TLS2_boundaries_0","TLS2",0.00182481751824818
+"443","B","TLS2_boundaries_150","TLS2",0.0680345572354212
+"444","Plasma","TLS2_boundaries_150","TLS2",0.233261339092873
+"445","CD8_Teff","TLS2_boundaries_150","TLS2",0.0259179265658747
+"446","CD8_CTL","TLS2_boundaries_150","TLS2",0.0691144708423326
+"447","Mac_like CD8_CTL","TLS2_boundaries_150","TLS2",0.0118790496760259
+"448","Epi_like CD8_Teff","TLS2_boundaries_150","TLS2",0.00971922246220302
+"449","Fb_like CD8_Teff","TLS2_boundaries_150","TLS2",0.019438444924406
+"450","CD8_Exhausted","TLS2_boundaries_150","TLS2",0
+"451","CD8_proliferation","TLS2_boundaries_150","TLS2",0.0161987041036717
+"452","Fb_like Mac_like Treg","TLS2_boundaries_150","TLS2",0
+"453","Treg","TLS2_boundaries_150","TLS2",0.0237580993520518
+"454","Th17","TLS2_boundaries_150","TLS2",0.00863930885529158
+"455","monocytes","TLS2_boundaries_150","TLS2",0.0226781857451404
+"456","Alveolar_Marcophage","TLS2_boundaries_150","TLS2",0.0691144708423326
+"457","Interstital_Mph_perivascular","TLS2_boundaries_150","TLS2",0.0550755939524838
+"458","Alveolar_Mph_Proliferating","TLS2_boundaries_150","TLS2",0.00431965442764579
+"459","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_150","TLS2",0.00755939524838013
+"460","cDC2","TLS2_boundaries_150","TLS2",0.00755939524838013
+"461","cDC3","TLS2_boundaries_150","TLS2",0.00323974082073434
+"462","pDC","TLS2_boundaries_150","TLS2",0.00863930885529158
+"463","mast_cell","TLS2_boundaries_150","TLS2",0.00647948164146868
+"464","Lymphatic_endothelial_cell","TLS2_boundaries_150","TLS2",0.00863930885529158
+"465","Arterial_endothelial_cell","TLS2_boundaries_150","TLS2",0.0755939524838013
+"466","Pericytes","TLS2_boundaries_150","TLS2",0.0431965442764579
+"467","tCAF","TLS2_boundaries_150","TLS2",0.00107991360691145
+"468","mCAF","TLS2_boundaries_150","TLS2",0.0464362850971922
+"469","InfCAF","TLS2_boundaries_150","TLS2",0.00539956803455724
+"470","T_like Fibroblast","TLS2_boundaries_150","TLS2",0.00539956803455724
+"471","AT1_like Fibroblast","TLS2_boundaries_150","TLS2",0.00323974082073434
+"472","AT1","TLS2_boundaries_150","TLS2",0.0539956803455724
+"473","AT2","TLS2_boundaries_150","TLS2",0.0799136069114471
+"474","AT1_proliferation","TLS2_boundaries_150","TLS2",0.00215982721382289
+"475","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_150","TLS2",0.00215982721382289
+"476","Tumor","TLS2_boundaries_150","TLS2",0.00215982721382289
+"477","B","TLS2_boundaries_300","TLS2",0.0566860465116279
+"478","Plasma","TLS2_boundaries_300","TLS2",0.215116279069767
+"479","CD8_Teff","TLS2_boundaries_300","TLS2",0.0239825581395349
+"480","CD8_CTL","TLS2_boundaries_300","TLS2",0.0835755813953488
+"481","Mac_like CD8_CTL","TLS2_boundaries_300","TLS2",0.0218023255813953
+"482","Epi_like CD8_Teff","TLS2_boundaries_300","TLS2",0.00799418604651163
+"483","Fb_like CD8_Teff","TLS2_boundaries_300","TLS2",0.0196220930232558
+"484","CD8_Exhausted","TLS2_boundaries_300","TLS2",0.000726744186046512
+"485","CD8_proliferation","TLS2_boundaries_300","TLS2",0.0210755813953488
+"486","Fb_like Mac_like Treg","TLS2_boundaries_300","TLS2",0
+"487","Treg","TLS2_boundaries_300","TLS2",0.029796511627907
+"488","Th17","TLS2_boundaries_300","TLS2",0.0188953488372093
+"489","monocytes","TLS2_boundaries_300","TLS2",0.0167151162790698
+"490","Alveolar_Marcophage","TLS2_boundaries_300","TLS2",0.0828488372093023
+"491","Interstital_Mph_perivascular","TLS2_boundaries_300","TLS2",0.105377906976744
+"492","Alveolar_Mph_Proliferating","TLS2_boundaries_300","TLS2",0.00218023255813953
+"493","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_300","TLS2",0.00218023255813953
+"494","cDC2","TLS2_boundaries_300","TLS2",0.000726744186046512
+"495","cDC3","TLS2_boundaries_300","TLS2",0.00508720930232558
+"496","pDC","TLS2_boundaries_300","TLS2",0.0065406976744186
+"497","mast_cell","TLS2_boundaries_300","TLS2",0.0065406976744186
+"498","Lymphatic_endothelial_cell","TLS2_boundaries_300","TLS2",0.0065406976744186
+"499","Arterial_endothelial_cell","TLS2_boundaries_300","TLS2",0.0690406976744186
+"500","Pericytes","TLS2_boundaries_300","TLS2",0.0356104651162791
+"501","tCAF","TLS2_boundaries_300","TLS2",0.000726744186046512
+"502","mCAF","TLS2_boundaries_300","TLS2",0.0479651162790698
+"503","InfCAF","TLS2_boundaries_300","TLS2",0.00508720930232558
+"504","T_like Fibroblast","TLS2_boundaries_300","TLS2",0.00799418604651163
+"505","AT1_like Fibroblast","TLS2_boundaries_300","TLS2",0.00581395348837209
+"506","AT1","TLS2_boundaries_300","TLS2",0.0494186046511628
+"507","AT2","TLS2_boundaries_300","TLS2",0.0414244186046512
+"508","AT1_proliferation","TLS2_boundaries_300","TLS2",0.00218023255813953
+"509","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_300","TLS2",0.000726744186046512
+"510","Tumor","TLS2_boundaries_300","TLS2",0
+"511","B","TLS2_boundaries_450","TLS2",0.0224288840262582
+"512","Plasma","TLS2_boundaries_450","TLS2",0.256564551422319
+"513","CD8_Teff","TLS2_boundaries_450","TLS2",0.0207877461706783
+"514","CD8_CTL","TLS2_boundaries_450","TLS2",0.0776805251641138
+"515","Mac_like CD8_CTL","TLS2_boundaries_450","TLS2",0.0158643326039387
+"516","Epi_like CD8_Teff","TLS2_boundaries_450","TLS2",0.00820568927789934
+"517","Fb_like CD8_Teff","TLS2_boundaries_450","TLS2",0.0175054704595186
+"518","CD8_Exhausted","TLS2_boundaries_450","TLS2",0.000547045951859956
+"519","CD8_proliferation","TLS2_boundaries_450","TLS2",0.0158643326039387
+"520","Fb_like Mac_like Treg","TLS2_boundaries_450","TLS2",0
+"521","Treg","TLS2_boundaries_450","TLS2",0.0262582056892779
+"522","Th17","TLS2_boundaries_450","TLS2",0.0136761487964989
+"523","monocytes","TLS2_boundaries_450","TLS2",0.012582056892779
+"524","Alveolar_Marcophage","TLS2_boundaries_450","TLS2",0.0793216630196937
+"525","Interstital_Mph_perivascular","TLS2_boundaries_450","TLS2",0.087527352297593
+"526","Alveolar_Mph_Proliferating","TLS2_boundaries_450","TLS2",0.000547045951859956
+"527","Epithelial_like Alveolar_Marcophage","TLS2_boundaries_450","TLS2",0.00601750547045952
+"528","cDC2","TLS2_boundaries_450","TLS2",0.00273522975929978
+"529","cDC3","TLS2_boundaries_450","TLS2",0.00382932166301969
+"530","pDC","TLS2_boundaries_450","TLS2",0.012582056892779
+"531","mast_cell","TLS2_boundaries_450","TLS2",0.00656455142231947
+"532","Lymphatic_endothelial_cell","TLS2_boundaries_450","TLS2",0.00273522975929978
+"533","Arterial_endothelial_cell","TLS2_boundaries_450","TLS2",0.0536105032822757
+"534","Pericytes","TLS2_boundaries_450","TLS2",0.0355579868708972
+"535","tCAF","TLS2_boundaries_450","TLS2",0.000547045951859956
+"536","mCAF","TLS2_boundaries_450","TLS2",0.0585339168490153
+"537","InfCAF","TLS2_boundaries_450","TLS2",0.00164113785557987
+"538","T_like Fibroblast","TLS2_boundaries_450","TLS2",0.00273522975929978
+"539","AT1_like Fibroblast","TLS2_boundaries_450","TLS2",0.00547045951859956
+"540","AT1","TLS2_boundaries_450","TLS2",0.0650984682713348
+"541","AT2","TLS2_boundaries_450","TLS2",0.0820568927789934
+"542","AT1_proliferation","TLS2_boundaries_450","TLS2",0.000547045951859956
+"543","Alveolar_Marcophage_like Epithelial","TLS2_boundaries_450","TLS2",0.00109409190371991
+"544","Tumor","TLS2_boundaries_450","TLS2",0.00328227571115974
